@@ -73,13 +73,13 @@ Since this a public repository, submitting a Pull Request will not be the same a
   ```
     git clone <forked account>
 
-    example: git clone https://github.com/EmirVatric/helpjuice-challenge.git
+    example: git clone https://github.com/EmirVatric/Chunin-Exam
   ```
 
 - Any changes made in the original repository should not be synced to your forked repository. The following commands enable us to track the original repository as a remote of the fork.
 
    ```
-     git remote add --track master upstream https://github.com/EmirVatric/Helpjuice-Challenge.git
+     git remote add --track master upstream https://github.com/EmirVatric/Chunin-Exam.git
      git fetch upstream
    ```
 
